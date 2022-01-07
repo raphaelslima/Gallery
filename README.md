@@ -3,15 +3,15 @@ Projeto de uma galeria de fotos usando SASS.
 
 ## Versão Desktop:
 
-<img src="./assets/screenshots/img1"/>
-<img src="./assets/screenshots/img2"/>
-<img src="./assets/screenshots/img3"/>
+<img src="./screenshots/img1.PNG" />
+<img src="./screenshots/img2.PNG"/>
+<img src="./screenshots/img3.PNG"/>
 
 ## Versão mobile (Em construção)
 
-<img src="./assets/screenshots/img4"/>
-<img src="./assets/screenshots/img5"/>
-<img src="./assets/screenshots/img6"/>
+<img src="./screenshots/img4.PNG"/>
+<img src="./screenshots/img5.PNG"/>
+<img src="./screenshots/img6.PNG"/>
 
 ## Tecnologias usadas:
   
